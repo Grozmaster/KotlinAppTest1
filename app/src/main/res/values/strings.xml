@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">KotlinAppTest1</string>
+    <string name="app_name">KotlinAppTest</string>
+    <string name="my_first_git_commit">My first git commit</string>
 </resources>
